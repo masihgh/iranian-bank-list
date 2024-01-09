@@ -3,3 +3,13 @@
 
 
 Discover the name of Iranian banks from card numbers effortlessly! Our comprehensive repository supports all major banks in Iran. This package offers SVG logos and brand-specific colors for seamless bank identification and integration
+
+```json
+  {
+    "card_no": 610433,
+    "bank_name": "mellat",
+    "bank_title": "بانک ملت",
+    "bank_logo": "./images/mellat-02.svg",
+    "color": "#d12236"
+  },
+```
