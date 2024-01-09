@@ -257,5 +257,12 @@
     "bank_title": "بانک ایران زمین",
     "bank_logo": "./#",
     "color": "#490fa2"
+  },
+  {
+    "card_no": 62198619,
+    "bank_name": "blubank",
+    "bank_title": "بلوبانک",
+    "bank_logo": "./#",
+    "color": "#"
   }
 ]
