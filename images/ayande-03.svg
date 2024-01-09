@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Component_117_1" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y1=".999" y2="-.001" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#6e2616"/>
+            <stop offset="1" stop-color="#9b4722"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1=".501" x2=".501" y1="0" y2="1" xlink:href="#linear-gradient"/>
+        <radialGradient id="radial-gradient" cx=".5" cy=".5" r=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f4b31b"/>
+            <stop offset="1" stop-color="#cc932b"/>
+        </radialGradient>
+        <clipPath id="clip-path">
+            <path d="M0 0H20V20H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_1279" d="M0 0H24V24H0z" class="cls-1"/>
+    <g id="Bank_Ayandeh_Color" clip-path="url(#clip-path)" transform="translate(2 2)">
+        <path id="Boundary" d="M0 0H20V20H0z" class="cls-1"/>
+        <path id="Shape" fill="url(#radial-gradient)" d="M2.783 0h14.434A2.8 2.8 0 0 1 20 2.783v14.434A2.8 2.8 0 0 1 17.217 20H2.783A2.8 2.8 0 0 1 0 17.217V2.783A2.78 2.78 0 0 1 2.783 0"/>
+        <path id="Shape-2" fill="url(#linear-gradient)" d="M18.333 0v7.882a2.123 2.123 0 0 1-.612 1.5 2.084 2.084 0 0 1-1.483.62H2.095A2.084 2.084 0 0 1 .612 9.38 2.123 2.123 0 0 1 0 7.883V4.595c.773-8.424 8.736.105 12.435.105 2.942-.016 4.695-2.3 5.9-4.7" transform="translate(.833 9.167)"/>
+        <path id="Shape-3" fill="url(#linear-gradient-2)" d="M2.108 0H16.24a2.1 2.1 0 0 1 2.093 2.1v3.16c-.653 8.733-8.714.015-12.44.015C2.969 5.276 1.217 7.615 0 10V2.1A2.137 2.137 0 0 1 2.108 0" transform="translate(.833 .833)"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_128_1" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path d="M0 0H20V20H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_1287" d="M0 0H24V24H0z" class="cls-1"/>
+    <g id="Bank_Refah_Color" clip-path="url(#clip-path)" transform="translate(2 2)">
+        <path id="Boundary" d="M0 0H20V20H0z" class="cls-1"/>
+        <path id="Shape" fill="#173576" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" d="M6324.5 3924a2.5 2.5 0 1 1 2.5 2.5 2.5 2.5 0 0 1-2.5-2.5zm-5.57-3.138a6.989 6.989 0 0 1-.2-9.419h5.536a5.2 5.2 0 0 0-3.343 4.654 4.985 4.985 0 0 0 2.347 4.113h7.47a4.983 4.983 0 0 0 2.347-4.113 5.2 5.2 0 0 0-3.343-4.654h5.536a6.99 6.99 0 0 1-.2 9.419zm3.059-2.442a5.254 5.254 0 0 0 3.617-4.766 5.2 5.2 0 0 0-3.344-4.655h5.536a6.991 6.991 0 0 1-.205 9.42z" transform="translate(-6317 -3907.75)"/>
+    </g>
+</svg>

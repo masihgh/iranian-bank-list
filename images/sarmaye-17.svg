@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_146_1" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path d="M0 0H20V20H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_1289" d="M0 0H24V24H0z" class="cls-1"/>
+    <g id="Bank_Sarmayeh_Color" clip-path="url(#clip-path)" transform="translate(2 2)">
+        <path id="Boundary" d="M0 0H20V20H0z" class="cls-1"/>
+        <path id="Shape" fill="#1f1f48" d="M2.941 17.484A2.518 2.518 0 1 1 5.459 20a2.521 2.521 0 0 1-2.518-2.516zM0 6.822C4.156 6.688 7.837 4.08 11.234 0l.016 6.692C7.5 11.165 3.75 12.6 0 12.669z" transform="translate(6.042)"/>
+        <path id="Shape-2" fill="#afb2ae" d="M11.24 0v5.847C7.087 5.981 3.41 8.589.016 12.669L0 5.977C3.747 1.5 7.493.071 11.24 0z" transform="translate(2.708 7.331)"/>
+    </g>
+</svg>

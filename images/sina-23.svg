@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_149_1" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path d="M0 0H20V20H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_1289" d="M0 0H24V24H0z" class="cls-1"/>
+    <g id="Bank_Sina_Color" clip-path="url(#clip-path)" transform="translate(2 2)">
+        <path id="Boundary" d="M0 0H20V20H0z" class="cls-1"/>
+        <path id="Shape" fill="#277eb5" d="M4.247 17.513l-.553-.332 8.534-4.981V7.9l-3.06-1.783 4.812-2.89 3.1 1.847v9.95L8.526 20zM0 14.926V4.975L8.558 0l4.279 2.488.553.331L4.855 7.8v4.3l3.061 1.779L3.1 16.773z" transform="translate(1.667)"/>
+        <path id="Shape-2" fill="#dbaf2e" d="M2.917 5.833A2.917 2.917 0 1 0 0 2.917a2.922 2.922 0 0 0 2.917 2.916" transform="translate(7.292 7.083)"/>
+    </g>
+</svg>

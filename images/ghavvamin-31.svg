@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_132_1" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path d="M0 0H20V20H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_1289" d="M0 0H24V24H0z" class="cls-1"/>
+    <g id="Bank_Ghavamin_Color" clip-path="url(#clip-path)" transform="translate(2 2)">
+        <path id="Boundary" d="M0 0H20V20H0z" class="cls-1"/>
+        <path id="Shape" fill="#007d3d" d="M7.575 20l-3.408-3.091H15.3V8.892a4.311 4.311 0 0 0-4.319-3.02C7.44 5.873 6.849 8.5 6.849 8.5s-.783-4.333 5.636-4.333 6.682 4.669 6.682 4.669v9.787S18.967 20 17.985 20zM0 11.172V1.378S.2 0 1.181 0h10.41L15 3.091H3.871v8.016a4.311 4.311 0 0 0 4.319 3.02c3.536 0 4.127-2.627 4.127-2.627s.783 4.333-5.636 4.333S0 11.172 0 11.172z" transform="translate(.417)"/>
+        <path id="Shape-2" fill="#fff400" d="M3.7 0A3.705 3.705 0 1 1 0 3.7 3.7 3.7 0 0 1 3.7 0z" transform="translate(6.473 6.266)"/>
+    </g>
+</svg>

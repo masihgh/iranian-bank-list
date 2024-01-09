@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_131_1" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path d="M0 0H20V20H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_1289" d="M0 0H24V24H0z" class="cls-1"/>
+    <g id="Bank_Gardeshgari_Color" clip-path="url(#clip-path)" transform="translate(2 2)">
+        <path id="Boundary" d="M0 0H20V20H0z" class="cls-1"/>
+        <path id="Shape" fill="#b01116" fill-rule="evenodd" d="M1.8-33.014l3.2 5.55h2.389L4.2-32.966l.609-1.055 3.785 6.557H15l1.2-2.072H9.83l-3.809-6.588 1.385-2.4H4.977zm15 2.439l3.2-5.55-1.195-2.069-3.169 5.515h-1.217l3.781-6.556-3.2-5.55h-2.392L15.8-39.27l-3.81 6.592H9.218l1.215 2.1zm-6.021-11.1l-.609-1.055-6.361.013L5-44.785h6.408l3.181 5.51-1.214 2.1-1.386-2.4h-7.61L1.2-34.053 0-36.124l3.2-5.55z" transform="translate(0 46.124)"/>
+        <path id="Shape-2" fill="#00a1be" fill-rule="evenodd" d="M20.6-29.74a2.43 2.43 0 0 1 2.429 2.429 2.43 2.43 0 0 1-2.429 2.429 2.43 2.43 0 0 1-2.429-2.429A2.43 2.43 0 0 1 20.6-29.74z" transform="translate(-10.6 37.348)"/>
+    </g>
+</svg>
