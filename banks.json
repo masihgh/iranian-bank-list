@@ -31,21 +31,14 @@
     "color": "#5c2e91",
     "iban": "055"
   },
-  {
-    "card_no": 628157,
-    "bank_name": "etebari_tosee",
-    "bank_title": "موسسه اعتباری توسعه",
-    "bank_logo": "./images/tose.svg",
-    "color": "#891f1a",
-    "iban": ""
-  },
+
   {
     "card_no": 505416,
     "bank_name": "gardeshgari",
     "bank_title": "بانک گردشگری",
     "bank_logo": "./images/gardeshgari.svg",
     "color": "#af0a0f",
-    "iban": ""
+    "iban": "064"
   },
   {
     "card_no": 639599,
@@ -53,7 +46,7 @@
     "bank_title": "بانک قوامین",
     "bank_logo": "./images/ghavvamin.svg",
     "color": "#0e8a42",
-    "iban": ""
+    "iban": "052"
   },
   {
     "card_no": 627488,
@@ -109,7 +102,7 @@
     "bank_title": "بانک قرض الحسنه مهر ایرانیان",
     "bank_logo": "./images/mehriran.svg",
     "color": "#00a653",
-    "iban": ""
+    "iban": "060"
   },
   {
     "card_no": 603799,
@@ -268,7 +261,7 @@
     "bank_title": "بانک حکمت",
     "bank_logo": "./images/hekmat.svg",
     "color": "#0057a1",
-    "iban": ""
+    "iban": "065"
   },
   {
     "card_no": 627648,
@@ -292,7 +285,7 @@
     "bank_title": "بانک ایران زمین",
     "bank_logo": "./#",
     "color": "#490fa2",
-    "iban": ""
+    "iban": "069"
   },
   {
     "card_no": 62198619,
@@ -300,6 +293,6 @@
     "bank_title": "بلوبانک",
     "bank_logo": "./images/blu.svg",
     "color": "#3094ea",
-    "iban": ""
+    "iban": "056"
   }
 ]
