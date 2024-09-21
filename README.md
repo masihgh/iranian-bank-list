@@ -14,3 +14,18 @@ Discover the name of Iranian banks from card numbers effortlessly! Our comprehen
     "iban": "012"
   }
 ```
+## Contributors
+
+Thanks to all the people who contributed. [Contributors](https://github.com/masihgh/iranian-bank-list/graphs/contributors).
+
+<a href="https://github.com/masihgh/iranian-bank-list/graphs/contributors"><img src="https://opencollective.com/iranian-bank-list/contributors.svg?width=890&button=false" /></a>
+
+<a name="security"></a>
+## Security
+
+If you discover any security-related issues, please email `masihprogrammer@gmail.com` instead of using the issue tracker.
+
+<a name="license"></a>
+## License
+
+The MIT License (MIT). Please see [License File](https://github.com/masihgh/iranian-bank-list/blob/1.x/LICENSE) for more information.
