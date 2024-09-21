@@ -9,7 +9,8 @@ Discover the name of Iranian banks from card numbers effortlessly! Our comprehen
     "card_no": 610433,
     "bank_name": "mellat",
     "bank_title": "بانک ملت",
-    "bank_logo": "./images/mellat-02.svg",
-    "color": "#d12236"
-  },
+    "bank_logo": "./images/mellat.svg",
+    "color": "#d12236",
+    "iban": "012"
+  }
 ```
