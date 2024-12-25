@@ -5,7 +5,11 @@
     "bank_title": "بانک سپه (انصار سابق)",
     "bank_logo": "./images/ansar.svg",
     "color": "#0093dd",
-    "iban": "015"
+    "lighter_color": "#33aaff",
+    "darker_color": "#0077b3",
+    "iban": "015",
+    "card_regex": "^627381\\d{10}$",
+    "iban_regex": "^IR015\\d{22}$"
   },
   {
     "card_no": 636214,
@@ -13,7 +17,11 @@
     "bank_title": "بانک آینده",
     "bank_logo": "./images/ayande.svg",
     "color": "#492631",
-    "iban": "062"
+    "lighter_color": "#6b3a4d",
+    "darker_color": "#3d1d26",
+    "iban": "062",
+    "card_regex": "^636214\\d{10}$",
+    "iban_regex": "^IR062\\d{22}$"
   },
   {
     "card_no": 502938,
@@ -21,7 +29,11 @@
     "bank_title": "بانک دی",
     "bank_logo": "./images/day.svg",
     "color": "#008a9f",
-    "iban": "017"
+    "lighter_color": "#33a7b0",
+    "darker_color": "#006b7a",
+    "iban": "017",
+    "card_regex": "^502938\\d{10}$",
+    "iban_regex": "^IR017\\d{22}$"
   },
   {
     "card_no": 627412,
@@ -29,16 +41,23 @@
     "bank_title": "بانک اقتصادنوین",
     "bank_logo": "./images/eghtesad.svg",
     "color": "#5c2e91",
-    "iban": "055"
+    "lighter_color": "#7d4aa3",
+    "darker_color": "#471c6f",
+    "iban": "055",
+    "card_regex": "^627412\\d{10}$",
+    "iban_regex": "^IR055\\d{22}$"
   },
-
   {
     "card_no": 505416,
     "bank_name": "gardeshgari",
     "bank_title": "بانک گردشگری",
     "bank_logo": "./images/gardeshgari.svg",
     "color": "#af0a0f",
-    "iban": "064"
+    "lighter_color": "#d23a3a",
+    "darker_color": "#7f0707",
+    "iban": "064",
+    "card_regex": "^505416\\d{10}$",
+    "iban_regex": "^IR064\\d{22}$"
   },
   {
     "card_no": 639599,
@@ -46,7 +65,11 @@
     "bank_title": "بانک قوامین",
     "bank_logo": "./images/ghavvamin.svg",
     "color": "#0e8a42",
-    "iban": "052"
+    "lighter_color": "#3ab56b",
+    "darker_color": "#0b6933",
+    "iban": "052",
+    "card_regex": "^639599\\d{10}$",
+    "iban_regex": "^IR052\\d{22}$"
   },
   {
     "card_no": 627488,
@@ -54,7 +77,11 @@
     "bank_title": "بانک کارآفرین",
     "bank_logo": "./images/karafarin.svg",
     "color": "#168474",
-    "iban": "053"
+    "lighter_color": "#3fae8b",
+    "darker_color": "#106c5b",
+    "iban": "053",
+    "card_regex": "^627488\\d{10}$",
+    "iban_regex": "^IR053\\d{22}$"
   },
   {
     "card_no": 502910,
@@ -62,7 +89,11 @@
     "bank_title": "بانک کارآفرین",
     "bank_logo": "./images/karafarin.svg",
     "color": "#168474",
-    "iban": "053"
+    "lighter_color": "#3fae8b",
+    "darker_color": "#106c5b",
+    "iban": "053",
+    "card_regex": "^502910\\d{10}$",
+    "iban_regex": "^IR053\\d{22}$"
   },
   {
     "card_no": 603770,
@@ -70,7 +101,11 @@
     "bank_title": "بانک کشاورزی",
     "bank_logo": "./images/keshavarzi.svg",
     "color": "#112c09",
-    "iban": "016"
+    "lighter_color": "#2b4c1a",
+    "darker_color": "#0e2307",
+    "iban": "016",
+    "card_regex": "^603770\\d{10}$",
+    "iban_regex": "^IR016\\d{22}$"
   },
   {
     "card_no": 639217,
@@ -78,7 +113,11 @@
     "bank_title": "بانک کشاورزی",
     "bank_logo": "./images/keshavarzi.svg",
     "color": "#112c09",
-    "iban": "016"
+    "lighter_color": "#2b4c1a",
+    "darker_color": "#0e2307",
+    "iban": "016",
+    "card_regex": "^639217\\d{10}$",
+    "iban_regex": "^IR016\\d{22}$"
   },
   {
     "card_no": 628023,
@@ -86,7 +125,11 @@
     "bank_title": "بانک مسکن",
     "bank_logo": "./images/maskan.svg",
     "color": "#ff0100",
-    "iban": "014"
+    "lighter_color": "#ff3333",
+    "darker_color": "#cc0000",
+    "iban": "014",
+    "card_regex": "^628023\\d{10}$",
+    "iban_regex": "^IR014\\d{22}$"
   },
   {
     "card_no": 639370,
@@ -94,7 +137,11 @@
     "bank_title": "بانک مهر اقتصاد",
     "bank_logo": "./images/mehreghtesad.svg",
     "color": "#00a653",
-    "iban": "055"
+    "lighter_color": "#33b97f",
+    "darker_color": "#008542",
+    "iban": "055",
+    "card_regex": "^639370\\d{10}$",
+    "iban_regex": "^IR055\\d{22}$"
   },
   {
     "card_no": 606373,
@@ -102,15 +149,23 @@
     "bank_title": "بانک قرض الحسنه مهر ایرانیان",
     "bank_logo": "./images/mehriran.svg",
     "color": "#00a653",
-    "iban": "060"
+    "lighter_color": "#33b97f",
+    "darker_color": "#008542",
+    "iban": "060",
+    "card_regex": "^606373\\d{10}$",
+    "iban_regex": "^IR060\\d{22}$"
   },
   {
     "card_no": 603799,
     "bank_name": "meli",
     "bank_title": "بانک ملی ایران",
     "bank_logo": "./images/melli.svg",
-    "color": "#fff7b1",
-    "iban": "017"
+    "color": "#fff689",
+    "lighter_color": "#fff7b1",
+    "darker_color": "#e5e082",
+    "iban": "017",
+    "card_regex": "^603799\\d{10}$",
+    "iban_regex": "^IR017\\d{22}$"
   },
   {
     "card_no": 610433,
@@ -118,7 +173,11 @@
     "bank_title": "بانک ملت",
     "bank_logo": "./images/mellat.svg",
     "color": "#d12236",
-    "iban": "012"
+    "lighter_color": "#f1557f",
+    "darker_color": "#a10f26",
+    "iban": "012",
+    "card_regex": "^610433\\d{10}$",
+    "iban_regex": "^IR012\\d{22}$"
   },
   {
     "card_no": 991975,
@@ -126,14 +185,22 @@
     "bank_title": "بانک ملت",
     "bank_logo": "./images/mellat.svg",
     "color": "#d12236",
-    "iban": "012"
+    "lighter_color": "#f1557f",
+    "darker_color": "#a10f26",
+    "iban": "012",
+    "card_regex": "^991975\\d{10}$",
+    "iban_regex": "^IR012\\d{22}$"
   },
   {
     "card_no": 111111,
     "bank_name": "ok",
-    "bank_title": "همه کارتخوان‌ها",
+    "bank_title": "همه کارت ها",
     "bank_logo": "./images/shetab.svg",
-    "color": "#1a00e0d7"
+    "color": "#3b99fd",
+    "lighter_color": "#7bbff3",
+    "darker_color": "#3b4aff",
+    "card_regex": "^111111\\d{10}$",
+    "iban_regex": "^.*$"
   },
   {
     "card_no": 622106,
@@ -141,7 +208,11 @@
     "bank_title": "بانک پارسیان",
     "bank_logo": "./images/pasargad.svg",
     "color": "#a10f1f",
-    "iban": "054"
+    "lighter_color": "#c65c5c",
+    "darker_color": "#7a0b14",
+    "iban": "054",
+    "card_regex": "^622106\\d{10}$",
+    "iban_regex": "^IR054\\d{22}$"
   },
   {
     "card_no": 502229,
@@ -149,7 +220,11 @@
     "bank_title": "بانک پاسارگاد",
     "bank_logo": "./images/pasargad.svg",
     "color": "#ffc110",
-    "iban": "057"
+    "lighter_color": "#ffcc42",
+    "darker_color": "#e59a00",
+    "iban": "057",
+    "card_regex": "^502229\\d{10}$",
+    "iban_regex": "^IR057\\d{22}$"
   },
   {
     "card_no": 639347,
@@ -157,7 +232,11 @@
     "bank_title": "بانک پاسارگاد",
     "bank_logo": "./images/pasargad.svg",
     "color": "#ffc110",
-    "iban": "057"
+    "lighter_color": "#ffcc42",
+    "darker_color": "#e59a00",
+    "iban": "057",
+    "card_regex": "^639347\\d{10}$",
+    "iban_regex": "^IR057\\d{22}$"
   },
   {
     "card_no": 627760,
@@ -165,7 +244,11 @@
     "bank_title": "پست بانک ایران",
     "bank_logo": "./images/post.svg",
     "color": "#008840",
-    "iban": "021"
+    "lighter_color": "#33a166",
+    "darker_color": "#006b2e",
+    "iban": "021",
+    "card_regex": "^627760\\d{10}$",
+    "iban_regex": "^IR021\\d{22}$"
   },
   {
     "card_no": 589463,
@@ -173,7 +256,11 @@
     "bank_title": "بانک رفاه",
     "bank_logo": "./images/refahkargaran.svg",
     "color": "#1e7a00",
-    "iban": "013"
+    "lighter_color": "#4da634",
+    "darker_color": "#155a00",
+    "iban": "013",
+    "card_regex": "^589463\\d{10}$",
+    "iban_regex": "^IR013\\d{22}$"
   },
   {
     "card_no": 627961,
@@ -181,7 +268,11 @@
     "bank_title": "بانک صنعت و معدن",
     "bank_logo": "./images/sanatmadan.svg",
     "color": "#0f317e",
-    "iban": "011"
+    "lighter_color": "#366aa7",
+    "darker_color": "#0a1f5d",
+    "iban": "011",
+    "card_regex": "^627961\\d{10}$",
+    "iban_regex": "^IR011\\d{22}$"
   },
   {
     "card_no": 603769,
@@ -189,7 +280,11 @@
     "bank_title": "بانک صادرات",
     "bank_logo": "./images/saderat.svg",
     "color": "#29166f",
-    "iban": "019"
+    "lighter_color": "#563f8f",
+    "darker_color": "#1e1158",
+    "iban": "019",
+    "card_regex": "^603769\\d{10}$",
+    "iban_regex": "^IR019\\d{22}$"
   },
   {
     "card_no": 621986,
@@ -197,7 +292,11 @@
     "bank_title": "بانک سامان",
     "bank_logo": "./images/saman.svg",
     "color": "#00aae8",
-    "iban": "056"
+    "lighter_color": "#33b7f3",
+    "darker_color": "#008bb5",
+    "iban": "056",
+    "card_regex": "^621986\\d{10}$",
+    "iban_regex": "^IR056\\d{22}$"
   },
   {
     "card_no": 639607,
@@ -205,7 +304,11 @@
     "bank_title": "بانک سرمایه",
     "bank_logo": "./images/sarmaye.svg",
     "color": "#a7a7a7",
-    "iban": "058"
+    "lighter_color": "#cfcfcf",
+    "darker_color": "#7f7f7f",
+    "iban": "058",
+    "card_regex": "^639607\\d{10}$",
+    "iban_regex": "^IR058\\d{22}$"
   },
   {
     "card_no": 589210,
@@ -213,7 +316,11 @@
     "bank_title": "بانک سپه",
     "bank_logo": "./images/sepah.svg",
     "color": "#0093dd",
-    "iban": "015"
+    "lighter_color": "#33a7f7",
+    "darker_color": "#0077b3",
+    "iban": "015",
+    "card_regex": "^589210\\d{10}$",
+    "iban_regex": "^IR015\\d{22}$"
   },
   {
     "card_no": 504706,
@@ -221,7 +328,11 @@
     "bank_title": "بانک شهر",
     "bank_logo": "./images/shahr.svg",
     "color": "#d00",
-    "iban": "061"
+    "lighter_color": "#ff3333",
+    "darker_color": "#b20000",
+    "iban": "061",
+    "card_regex": "^504706\\d{10}$",
+    "iban_regex": "^IR061\\d{22}$"
   },
   {
     "card_no": 502806,
@@ -229,7 +340,11 @@
     "bank_title": "بانک شهر",
     "bank_logo": "./images/shahr.svg",
     "color": "#d00",
-    "iban": "061"
+    "lighter_color": "#ff3333",
+    "darker_color": "#b20000",
+    "iban": "061",
+    "card_regex": "^502806\\d{10}$",
+    "iban_regex": "^IR061\\d{22}$"
   },
   {
     "card_no": 639346,
@@ -237,7 +352,11 @@
     "bank_title": "بانک سینا",
     "bank_logo": "./images/sina.svg",
     "color": "#16469c",
-    "iban": "059"
+    "lighter_color": "#3868c2",
+    "darker_color": "#0f2e7c",
+    "iban": "059",
+    "card_regex": "^639346\\d{10}$",
+    "iban_regex": "^IR059\\d{22}$"
   },
   {
     "card_no": 627353,
@@ -245,7 +364,11 @@
     "bank_title": "بانک تجارت",
     "bank_logo": "./images/tejarat.svg",
     "color": "#290fadc7",
-    "iban": "018"
+    "lighter_color": "#5c62d9",
+    "darker_color": "#1f0d8a",
+    "iban": "018",
+    "card_regex": "^627353\\d{10}$",
+    "iban_regex": "^IR018\\d{22}$"
   },
   {
     "card_no": 585983,
@@ -253,7 +376,11 @@
     "bank_title": "بانک تجارت",
     "bank_logo": "./images/tejarat.svg",
     "color": "#290fadc7",
-    "iban": "018"
+    "lighter_color": "#5c62d9",
+    "darker_color": "#1f0d8a",
+    "iban": "018",
+    "card_regex": "^585983\\d{10}$",
+    "iban_regex": "^IR018\\d{22}$"
   },
   {
     "card_no": 636949,
@@ -261,7 +388,11 @@
     "bank_title": "بانک حکمت",
     "bank_logo": "./images/hekmat.svg",
     "color": "#0057a1",
-    "iban": "065"
+    "lighter_color": "#3383c2",
+    "darker_color": "#003f7a",
+    "iban": "065",
+    "card_regex": "^636949\\d{10}$",
+    "iban_regex": "^IR065\\d{22}$"
   },
   {
     "card_no": 627648,
@@ -269,7 +400,11 @@
     "bank_title": "بانک توسعه صادرات",
     "bank_logo": "./images/tosesaderat.svg",
     "color": "#066e16",
-    "iban": "020"
+    "lighter_color": "#338f4d",
+    "darker_color": "#005b12",
+    "iban": "020",
+    "card_regex": "^627648\\d{10}$",
+    "iban_regex": "^IR020\\d{22}$"
   },
   {
     "card_no": 502908,
@@ -277,7 +412,11 @@
     "bank_title": "بانک توسعه تعاون",
     "bank_logo": "./images/tosetaavon.svg",
     "color": "#0b8a93",
-    "iban": "051"
+    "lighter_color": "#3a9db1",
+    "darker_color": "#086673",
+    "iban": "051",
+    "card_regex": "^502908\\d{10}$",
+    "iban_regex": "^IR051\\d{22}$"
   },
   {
     "card_no": 505785,
@@ -285,7 +424,11 @@
     "bank_title": "بانک ایران زمین",
     "bank_logo": "./#",
     "color": "#490fa2",
-    "iban": "069"
+    "lighter_color": "#7a3bcc",
+    "darker_color": "#3c0079",
+    "iban": "069",
+    "card_regex": "^505785\\d{10}$",
+    "iban_regex": "^IR069\\d{22}$"
   },
   {
     "card_no": 62198619,
@@ -293,6 +436,10 @@
     "bank_title": "بلوبانک",
     "bank_logo": "./images/blu.svg",
     "color": "#3094ea",
-    "iban": "056"
+    "lighter_color": "#66b5ff",
+    "darker_color": "#1d74c2",
+    "iban": "056",
+    "card_regex": "^62198619\\d{8}$",
+    "iban_regex": "^IR056\\d{22}$"
   }
 ]
