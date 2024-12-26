@@ -22,7 +22,12 @@ Discover the name of Iranian banks from card numbers effortlessly! Our comprehen
 
 Thanks to all the people who contributed. [Contributors](https://github.com/masihgh/iranian-bank-list/graphs/contributors).
 
-<a href="https://github.com/masihgh/iranian-bank-list/graphs/contributors"><img src="https://opencollective.com/iranian-bank-list/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/masihgh/iranian-bank-list/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=masihgh/iranian-bank-list" />
+</a>
+<br/>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 <a name="security"></a>
 ## Security
