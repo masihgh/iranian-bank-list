@@ -11,7 +11,11 @@ Discover the name of Iranian banks from card numbers effortlessly! Our comprehen
     "bank_title": "بانک ملت",
     "bank_logo": "./images/mellat.svg",
     "color": "#d12236",
-    "iban": "012"
+    "lighter_color": "#f1557f",
+    "darker_color": "#a10f26",
+    "iban": "012",
+    "card_regex": "^610433\\d{10}$",
+    "iban_regex": "^IR012\\d{22}$"
   }
 ```
 ## Contributors
