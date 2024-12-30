@@ -4,9 +4,9 @@
     "bank_name": "ansar",
     "bank_title": "بانک سپه (انصار سابق)",
     "bank_logo": "./images/ansar.svg",
-    "color": "#0093dd",
-    "lighter_color": "#33aaff",
-    "darker_color": "#0077b3",
+    "color": "#c8393b",
+    "lighter_color": "#f04447 ",
+    "darker_color": "#a02e2f",
     "iban": "015",
     "card_regex": "^627381\\d{10}$",
     "iban_regex": "^IR015\\d{22}$"
@@ -22,6 +22,18 @@
     "iban": "062",
     "card_regex": "^636214\\d{10}$",
     "iban_regex": "^IR062\\d{22}$"
+  },
+  {
+    "card_no": 62198619,
+    "bank_name": "blubank",
+    "bank_title": "بلوبانک",
+    "bank_logo": "./images/blu.svg",
+    "color": "#3094ea",
+    "lighter_color": "#66b5ff",
+    "darker_color": "#1d74c2",
+    "iban": "056",
+    "card_regex": "^62198619\\d{8}$",
+    "iban_regex": "^IR056\\d{22}$"
   },
   {
     "card_no": 502938,
@@ -429,17 +441,5 @@
     "iban": "069",
     "card_regex": "^505785\\d{10}$",
     "iban_regex": "^IR069\\d{22}$"
-  },
-  {
-    "card_no": 62198619,
-    "bank_name": "blubank",
-    "bank_title": "بلوبانک",
-    "bank_logo": "./images/blu.svg",
-    "color": "#3094ea",
-    "lighter_color": "#66b5ff",
-    "darker_color": "#1d74c2",
-    "iban": "056",
-    "card_regex": "^62198619\\d{8}$",
-    "iban_regex": "^IR056\\d{22}$"
   }
 ]
