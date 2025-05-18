@@ -1,19 +1,8 @@
 [
   {
-    "card_no": 111111,
-    "bank_name": "ok",
-    "bank_title": "همه کارت ها",
-    "bank_logo": "./images/shetab.svg",
-    "color": "#3b99fd",
-    "lighter_color": "#7bbff3",
-    "darker_color": "#3b4aff",
-    "card_regex": "^111111\\d{10}$",
-    "iban_regex": "^.*$"
-  },
-  {
     "card_no": 627381,
     "bank_name": "ansar",
-    "bank_title": "بانک سپه (انصار سابق)",
+    "bank_title": "بانک انصار",
     "bank_logo": "./images/ansar.svg",
     "color": "#c8393b",
     "lighter_color": "#f04447 ",
@@ -177,6 +166,18 @@
     "iban": "060",
     "card_regex": "^606373\\d{10}$",
     "iban_regex": "^IR060\\d{22}$"
+  },
+  {
+    "card_no": 606256,
+    "bank_name": "meli",
+    "bank_title": "موسسه اعتباری ملل",
+    "bank_logo": "./images/melal.svg",
+    "color": "#37389a",
+    "lighter_color": "#6b6ccc",
+    "darker_color": "#2a2b7a",
+    "iban": "075",
+    "card_regex": "^606256\\d{10}$",
+    "iban_regex": "^IR075\\d{22}$"
   },
   {
     "card_no": 603799,
@@ -443,53 +444,17 @@
     "iban_regex": "^IR069\\d{22}$"
   },
   {
-    "card_no": 627381,
-    "bank_name": "centeral",
-    "bank_title": "بانک مرکزی",
-    "bank_logo": "./images/centeral.svg",
-    "color": "#f1a500",
-    "lighter_color": "#f3b733",
-    "darker_color": "#c77c00",
-    "iban": "097",
-    "card_regex": "^627381\\d{10}$",
-    "iban_regex": "^IR097\\d{22}$"
-},
-  {
-    "card_no": 628023,
+    "card_no": 588947,
     "bank_name": "khavarmianeh",
     "bank_title": "بانک خاورمیانه",
     "bank_logo": "./images/khavarmianeh.svg",
-    "color": "#00838f",
-    "lighter_color": "#4db6b3",
-    "darker_color": "#00575b",
-    "iban": "075",
-    "card_regex": "^628023\\d{10}$",
-    "iban_regex": "^IR075\\d{22}$"
-},
-  {
-    "card_no": 636949,
-    "bank_name": "samen",
-    "bank_title": "بانک ثامن",
-    "bank_logo": "./images/samen.svg",
-    "color": "#f8b400",
-    "lighter_color": "#fcd34d",
-    "darker_color": "#e6a100",
-    "iban": "094",
-    "card_regex": "^636949\\d{10}$",
-    "iban_regex": "^IR094\\d{22}$"
-},
-  {
-    "card_no": 639346,
-    "bank_name": "arman",
-    "bank_title": "بانک آرمان",
-    "bank_logo": "./images/arman.svg",
-    "color": "#f15b3e",
-    "lighter_color": "#f88a66",
-    "darker_color": "#d44c27",
-    "iban": "079",
-    "card_regex": "^639346\\d{10}$",
-    "iban_regex": "^IR079\\d{22}$"
-},
+    "color": "#f7941e",
+    "lighter_color": "#fbb557",
+    "darker_color": "#c86f08",
+    "iban": "080",
+    "card_regex": "^585947\\d{10}$",
+    "iban_regex": "^IR080\\d{22}$"
+  },
   {
     "card_no": 636214,
     "bank_name": "tat",
@@ -501,7 +466,7 @@
     "iban": "090",
     "card_regex": "^636214\\d{10}$",
     "iban_regex": "^IR090\\d{22}$"
-},
+  },
   {
     "card_no": 504172,
     "bank_name": "resalat",
@@ -513,7 +478,7 @@
     "iban": "060",
     "card_regex": "^504172\\d{10}$",
     "iban_regex": "^IR060\\d{22}$"
-},
+  },
   {
     "card_no": 504706,
     "bank_name": "hekmat_iranian",
