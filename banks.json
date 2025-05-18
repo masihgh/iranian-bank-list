@@ -1,5 +1,16 @@
 [
   {
+    "card_no": 111111,
+    "bank_name": "ok",
+    "bank_title": "همه کارت ها",
+    "bank_logo": "./images/shetab.svg",
+    "color": "#3b99fd",
+    "lighter_color": "#7bbff3",
+    "darker_color": "#3b4aff",
+    "card_regex": "^111111\\d{10}$",
+    "iban_regex": "^.*$"
+  },
+  {
     "card_no": 627381,
     "bank_name": "ansar",
     "bank_title": "بانک سپه (انصار سابق)",
@@ -204,17 +215,6 @@
     "iban_regex": "^IR012\\d{22}$"
   },
   {
-    "card_no": 111111,
-    "bank_name": "ok",
-    "bank_title": "همه کارت ها",
-    "bank_logo": "./images/shetab.svg",
-    "color": "#3b99fd",
-    "lighter_color": "#7bbff3",
-    "darker_color": "#3b4aff",
-    "card_regex": "^111111\\d{10}$",
-    "iban_regex": "^.*$"
-  },
-  {
     "card_no": 622106,
     "bank_name": "parsian",
     "bank_title": "بانک پارسیان",
@@ -396,7 +396,7 @@
   },
   {
     "card_no": 636949,
-    "bank_name": "tejarat",
+    "bank_name": "hekmat",
     "bank_title": "بانک حکمت",
     "bank_logo": "./images/hekmat.svg",
     "color": "#0057a1",
@@ -432,7 +432,7 @@
   },
   {
     "card_no": 505785,
-    "bank_name": "tosee_taavon",
+    "bank_name": "iranzamin",
     "bank_title": "بانک ایران زمین",
     "bank_logo": "./images/iranzamin.svg",
     "color": "#490fa2",
@@ -444,9 +444,9 @@
   },
   {
     "card_no": 627381,
-    "bank_name": "mercury",
+    "bank_name": "centeral",
     "bank_title": "بانک مرکزی",
-    "bank_logo": "./images/mercury.svg",
+    "bank_logo": "./images/centeral.svg",
     "color": "#f1a500",
     "lighter_color": "#f3b733",
     "darker_color": "#c77c00",
@@ -516,7 +516,7 @@
 },
   {
     "card_no": 504706,
-    "bank_name": "hekmat",
+    "bank_name": "hekmat_iranian",
     "bank_title": "مؤسسه اعتباری حکمت ایرانیان",
     "bank_logo": "./images/hekmat.svg",
     "color": "#002147",
