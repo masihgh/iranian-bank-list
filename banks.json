@@ -308,7 +308,7 @@
     "lighter_color": "#33b7f3",
     "darker_color": "#008bb5",
     "iban": "056",
-    "card_regex": "^621986\\d{10}$",
+    "card_regex": "^621986(?!19)\\d{10}$",
     "iban_regex": "^IR056\\d{22}$"
   },
   {
