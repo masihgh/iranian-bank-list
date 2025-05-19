@@ -9,7 +9,7 @@
     "darker_color": "#a02e2f",
     "iban": "015",
     "card_regex": "^627381\\d{10}$",
-    "iban_regex": "^IR015\\d{22}$"
+    "iban_regex": "^IR\\d{2}015\\d{19}$"
   },
   {
     "card_no": 636214,
@@ -21,7 +21,7 @@
     "darker_color": "#3d1d26",
     "iban": "062",
     "card_regex": "^636214\\d{10}$",
-    "iban_regex": "^IR062\\d{22}$"
+    "iban_regex": "^IR\\d{2}062\\d{19}$"
   },
   {
     "card_no": 62198619,
@@ -33,7 +33,7 @@
     "darker_color": "#1d74c2",
     "iban": "056",
     "card_regex": "^62198619\\d{8}$",
-    "iban_regex": "^IR056\\d{22}$"
+    "iban_regex": "^IR\\d{2}056\\d{19}$"
   },
   {
     "card_no": 502938,
@@ -45,7 +45,7 @@
     "darker_color": "#006b7a",
     "iban": "017",
     "card_regex": "^502938\\d{10}$",
-    "iban_regex": "^IR017\\d{22}$"
+    "iban_regex": "^IR\\d{2}017\\d{19}$"
   },
   {
     "card_no": 627412,
@@ -57,7 +57,7 @@
     "darker_color": "#471c6f",
     "iban": "055",
     "card_regex": "^627412\\d{10}$",
-    "iban_regex": "^IR055\\d{22}$"
+    "iban_regex": "^IR\\d{2}055\\d{19}$"
   },
   {
     "card_no": 505416,
@@ -69,7 +69,7 @@
     "darker_color": "#7f0707",
     "iban": "064",
     "card_regex": "^505416\\d{10}$",
-    "iban_regex": "^IR064\\d{22}$"
+    "iban_regex": "^IR\\d{2}064\\d{19}$"
   },
   {
     "card_no": 639599,
@@ -81,7 +81,7 @@
     "darker_color": "#0b6933",
     "iban": "052",
     "card_regex": "^639599\\d{10}$",
-    "iban_regex": "^IR052\\d{22}$"
+    "iban_regex": "^IR\\d{2}052\\d{19}$"
   },
   {
     "card_no": 627488,
@@ -93,7 +93,7 @@
     "darker_color": "#106c5b",
     "iban": "053",
     "card_regex": "^627488\\d{10}$",
-    "iban_regex": "^IR053\\d{22}$"
+    "iban_regex": "^IR\\d{2}053\\d{19}$"
   },
   {
     "card_no": 502910,
@@ -105,7 +105,7 @@
     "darker_color": "#106c5b",
     "iban": "053",
     "card_regex": "^502910\\d{10}$",
-    "iban_regex": "^IR053\\d{22}$"
+    "iban_regex": "^IR\\d{2}053\\d{19}$"
   },
   {
     "card_no": 603770,
@@ -117,7 +117,7 @@
     "darker_color": "#0e2307",
     "iban": "016",
     "card_regex": "^603770\\d{10}$",
-    "iban_regex": "^IR016\\d{22}$"
+    "iban_regex": "^IR\\d{2}016\\d{19}$"
   },
   {
     "card_no": 639217,
@@ -129,7 +129,7 @@
     "darker_color": "#0e2307",
     "iban": "016",
     "card_regex": "^639217\\d{10}$",
-    "iban_regex": "^IR016\\d{22}$"
+    "iban_regex": "^IR\\d{2}016\\d{19}$"
   },
   {
     "card_no": 628023,
@@ -141,7 +141,7 @@
     "darker_color": "#cc0000",
     "iban": "014",
     "card_regex": "^628023\\d{10}$",
-    "iban_regex": "^IR014\\d{22}$"
+    "iban_regex": "^IR\\d{2}014\\d{19}$"
   },
   {
     "card_no": 639370,
@@ -153,7 +153,7 @@
     "darker_color": "#008542",
     "iban": "055",
     "card_regex": "^639370\\d{10}$",
-    "iban_regex": "^IR055\\d{22}$"
+    "iban_regex": "^IR\\d{2}055\\d{19}$"
   },
   {
     "card_no": 606373,
@@ -165,7 +165,7 @@
     "darker_color": "#008542",
     "iban": "060",
     "card_regex": "^606373\\d{10}$",
-    "iban_regex": "^IR060\\d{22}$"
+    "iban_regex": "^IR\\d{2}060\\d{19}$"
   },
   {
     "card_no": 606256,
@@ -177,7 +177,7 @@
     "darker_color": "#2a2b7a",
     "iban": "075",
     "card_regex": "^606256\\d{10}$",
-    "iban_regex": "^IR075\\d{22}$"
+    "iban_regex": "^IR\\d{2}075\\d{19}$"
   },
   {
     "card_no": 603799,
@@ -189,7 +189,7 @@
     "darker_color": "#e5e082",
     "iban": "017",
     "card_regex": "^603799\\d{10}$",
-    "iban_regex": "^IR017\\d{22}$"
+    "iban_regex": "^IR\\d{2}017\\d{19}$"
   },
   {
     "card_no": 610433,
@@ -201,7 +201,7 @@
     "darker_color": "#a10f26",
     "iban": "012",
     "card_regex": "^610433\\d{10}$",
-    "iban_regex": "^IR012\\d{22}$"
+    "iban_regex": "^IR\\d{2}012\\d{19}$"
   },
   {
     "card_no": 991975,
@@ -213,7 +213,7 @@
     "darker_color": "#a10f26",
     "iban": "012",
     "card_regex": "^991975\\d{10}$",
-    "iban_regex": "^IR012\\d{22}$"
+    "iban_regex": "^IR\\d{2}012\\d{19}$"
   },
   {
     "card_no": 622106,
@@ -225,7 +225,7 @@
     "darker_color": "#7a0b14",
     "iban": "054",
     "card_regex": "^622106\\d{10}$",
-    "iban_regex": "^IR054\\d{22}$"
+    "iban_regex": "^IR\\d{2}054\\d{19}$"
   },
   {
     "card_no": 502229,
@@ -237,7 +237,7 @@
     "darker_color": "#e59a00",
     "iban": "057",
     "card_regex": "^502229\\d{10}$",
-    "iban_regex": "^IR057\\d{22}$"
+    "iban_regex": "^IR\\d{2}057\\d{19}$"
   },
   {
     "card_no": 639347,
@@ -249,7 +249,7 @@
     "darker_color": "#e59a00",
     "iban": "057",
     "card_regex": "^639347\\d{10}$",
-    "iban_regex": "^IR057\\d{22}$"
+    "iban_regex": "^IR\\d{2}057\\d{19}$"
   },
   {
     "card_no": 627760,
@@ -261,7 +261,7 @@
     "darker_color": "#006b2e",
     "iban": "021",
     "card_regex": "^627760\\d{10}$",
-    "iban_regex": "^IR021\\d{22}$"
+    "iban_regex": "^IR\\d{2}021\\d{19}$"
   },
   {
     "card_no": 589463,
@@ -273,7 +273,7 @@
     "darker_color": "#155a00",
     "iban": "013",
     "card_regex": "^589463\\d{10}$",
-    "iban_regex": "^IR013\\d{22}$"
+    "iban_regex": "^IR\\d{2}013\\d{19}$"
   },
   {
     "card_no": 627961,
@@ -285,7 +285,7 @@
     "darker_color": "#0a1f5d",
     "iban": "011",
     "card_regex": "^627961\\d{10}$",
-    "iban_regex": "^IR011\\d{22}$"
+    "iban_regex": "^IR\\d{2}011\\d{19}$"
   },
   {
     "card_no": 603769,
@@ -297,7 +297,7 @@
     "darker_color": "#1e1158",
     "iban": "019",
     "card_regex": "^603769\\d{10}$",
-    "iban_regex": "^IR019\\d{22}$"
+    "iban_regex": "^IR\\d{2}019\\d{19}$"
   },
   {
     "card_no": 621986,
@@ -309,7 +309,7 @@
     "darker_color": "#008bb5",
     "iban": "056",
     "card_regex": "^621986(?!19)\\d{10}$",
-    "iban_regex": "^IR056\\d{22}$"
+    "iban_regex": "^IR\\d{2}056\\d{19}$"
   },
   {
     "card_no": 639607,
@@ -321,7 +321,7 @@
     "darker_color": "#7f7f7f",
     "iban": "058",
     "card_regex": "^639607\\d{10}$",
-    "iban_regex": "^IR058\\d{22}$"
+    "iban_regex": "^IR\\d{2}058\\d{19}$"
   },
   {
     "card_no": 589210,
@@ -333,7 +333,7 @@
     "darker_color": "#0077b3",
     "iban": "015",
     "card_regex": "^589210\\d{10}$",
-    "iban_regex": "^IR015\\d{22}$"
+    "iban_regex": "^IR\\d{2}015\\d{19}$"
   },
   {
     "card_no": 504706,
@@ -345,7 +345,7 @@
     "darker_color": "#b20000",
     "iban": "061",
     "card_regex": "^504706\\d{10}$",
-    "iban_regex": "^IR061\\d{22}$"
+    "iban_regex": "^IR\\d{2}061\\d{19}$"
   },
   {
     "card_no": 502806,
@@ -357,7 +357,7 @@
     "darker_color": "#b20000",
     "iban": "061",
     "card_regex": "^502806\\d{10}$",
-    "iban_regex": "^IR061\\d{22}$"
+    "iban_regex": "^IR\\d{2}061\\d{19}$"
   },
   {
     "card_no": 639346,
@@ -369,7 +369,7 @@
     "darker_color": "#0f2e7c",
     "iban": "059",
     "card_regex": "^639346\\d{10}$",
-    "iban_regex": "^IR059\\d{22}$"
+    "iban_regex": "^IR\\d{2}059\\d{19}$"
   },
   {
     "card_no": 627353,
@@ -381,7 +381,7 @@
     "darker_color": "#1f0d8a",
     "iban": "018",
     "card_regex": "^627353\\d{10}$",
-    "iban_regex": "^IR018\\d{22}$"
+    "iban_regex": "^IR\\d{2}018\\d{19}$"
   },
   {
     "card_no": 585983,
@@ -393,7 +393,7 @@
     "darker_color": "#1f0d8a",
     "iban": "018",
     "card_regex": "^585983\\d{10}$",
-    "iban_regex": "^IR018\\d{22}$"
+    "iban_regex": "^IR\\d{2}018\\d{19}$"
   },
   {
     "card_no": 636949,
@@ -405,7 +405,7 @@
     "darker_color": "#003f7a",
     "iban": "065",
     "card_regex": "^636949\\d{10}$",
-    "iban_regex": "^IR065\\d{22}$"
+    "iban_regex": "^IR\\d{2}065\\d{19}$"
   },
   {
     "card_no": 627648,
@@ -417,7 +417,7 @@
     "darker_color": "#005b12",
     "iban": "020",
     "card_regex": "^627648\\d{10}$",
-    "iban_regex": "^IR020\\d{22}$"
+    "iban_regex": "^IR\\d{2}020\\d{19}$"
   },
   {
     "card_no": 502908,
@@ -429,7 +429,7 @@
     "darker_color": "#086673",
     "iban": "051",
     "card_regex": "^502908\\d{10}$",
-    "iban_regex": "^IR051\\d{22}$"
+    "iban_regex": "^IR\\d{2}051\\d{19}$"
   },
   {
     "card_no": 505785,
@@ -441,7 +441,7 @@
     "darker_color": "#3c0079",
     "iban": "069",
     "card_regex": "^505785\\d{10}$",
-    "iban_regex": "^IR069\\d{22}$"
+    "iban_regex": "^IR\\d{2}069\\d{19}$"
   },
   {
     "card_no": 588947,
@@ -453,7 +453,7 @@
     "darker_color": "#c86f08",
     "iban": "080",
     "card_regex": "^585947\\d{10}$",
-    "iban_regex": "^IR080\\d{22}$"
+    "iban_regex": "^IR\\d{2}080\\d{19}$"
   },
   {
     "card_no": 636214,
@@ -465,7 +465,7 @@
     "darker_color": "#6b1bb5",
     "iban": "090",
     "card_regex": "^636214\\d{10}$",
-    "iban_regex": "^IR090\\d{22}$"
+    "iban_regex": "^IR\\d{2}090\\d{19}$"
   },
   {
     "card_no": 504172,
@@ -477,7 +477,7 @@
     "darker_color": "#006b99",
     "iban": "060",
     "card_regex": "^504172\\d{10}$",
-    "iban_regex": "^IR060\\d{22}$"
+    "iban_regex": "^IR\\d{2}060\\d{19}$"
   },
   {
     "card_no": 504706,
@@ -489,6 +489,6 @@
     "darker_color": "#00162e",
     "iban": "055",
     "card_regex": "^504706\\d{10}$",
-    "iban_regex": "^IR055\\d{22}$"
+    "iban_regex": "^IR\\d{2}055\\d{19}$"
 }
 ]
