@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Component_145_1" width="24" height="24" viewBox="0 0 24 24">
-    <defs>
-        <clipPath id="clip-path">
-            <path d="M0 0H20V20H0z" class="cls-1"/>
-        </clipPath>
-        <style>
-            .cls-1{fill:none}
-        </style>
-    </defs>
-    <path id="Rectangle_1289" d="M0 0H24V24H0z" class="cls-1"/>
-    <g id="Bank_Sanat_Madan_Color" clip-path="url(#clip-path)" transform="translate(2 2)">
-        <path id="Boundary" d="M0 0H20V20H0z" class="cls-1"/>
-        <path id="Shape" fill="#9b814c" d="M20 20H0V0h5.42L10 4.58 14.58 0H20v20zM2.29 12.29v5.42h15.42V2.29h-2.182L11.619 6.2l1.511 1.51h4.579L15.42 10h-3.238l1.618 1.619L10 15.42l-3.13-3.13zm0-10v10L4.58 10h3.238L6.2 8.381 8.381 6.2 4.472 2.29zM10 7.818L7.818 10 10 12.182 12.182 10 10 7.818z"/>
-    </g>
-</svg>
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path d="m0 0h20v20h-20z"/></clipPath><path d="m0 0h24v24h-24z" fill="none"/><g clip-path="url(#a)" transform="translate(2 2)"><path d="m0 0h20v20h-20z" fill="none"/><path d="m20 20h-20v-20h5.42l4.58 4.58 4.58-4.58h5.42zm-17.71-7.71v5.42h15.42v-15.42h-2.182l-3.909 3.91 1.511 1.51h4.579l-2.289 2.29h-3.238l1.618 1.619-3.8 3.801-3.13-3.13zm0-10v10l2.29-2.29h3.238l-1.618-1.619 2.181-2.181-3.909-3.91zm7.71 5.528-2.182 2.182 2.182 2.182 2.182-2.182z" fill="#9b814c"/></g></svg>
