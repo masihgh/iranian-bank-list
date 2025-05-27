@@ -21,7 +21,7 @@ Discover the name of Iranian banks from card numbers effortlessly! Our comprehen
 
 ## Bank List Packages
 > Iranian Bank List Flutter Package By [Amir Ahadi](https://github.com/amirahadi) |
-[Github](https://github.com/amirahadi/iranian_bank_list_flutter)
+[Github](https://github.com/amirahadi/iranian_bank_list_flutter) , [pub.dev](https://pub.dev/packages/iranian_banks)
 
 ## Contributors
 
