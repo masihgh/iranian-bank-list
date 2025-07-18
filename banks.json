@@ -36,6 +36,18 @@
     "iban_regex": "^IR\\d{2}056\\d{19}$"
   },
   {
+    "card_no": 62198618,
+    "bank_name": "blubank",
+    "bank_title": "بلوبانک",
+    "bank_logo": "./images/blu.svg",
+    "color": "#3094ea",
+    "lighter_color": "#66b5ff",
+    "darker_color": "#1d74c2",
+    "iban": "056",
+    "card_regex": "^62198618\\d{8}$",
+    "iban_regex": "^IR\\d{2}056\\d{19}$"
+  },
+  {
     "card_no": 502938,
     "bank_name": "dey",
     "bank_title": "بانک دی",
