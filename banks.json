@@ -13,12 +13,12 @@
   },
   {
     "card_no": 636214,
-    "bank_name": "ayandeh",
-    "bank_title": "بانک آینده",
-    "bank_logo": "./images/ayande.svg",
-    "color": "#492631",
-    "lighter_color": "#6b3a4d",
-    "darker_color": "#3d1d26",
+    "bank_name": "melli",
+    "bank_title": "بانک ملی (آینده سابق)",
+    "bank_logo": "./images/melli.svg",
+    "color": "#fff689",
+    "lighter_color": "#fff7b1",
+    "darker_color": "#e5e082",
     "iban": "062",
     "card_regex": "^636214\\d{10}$",
     "iban_regex": "^IR\\d{2}062\\d{19}$"
