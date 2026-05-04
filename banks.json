@@ -1,12 +1,13 @@
 [
   {
     "card_no": 627381,
-    "bank_name": "ansar",
-    "bank_title": "بانک انصار",
-    "bank_logo": "./images/ansar.svg",
-    "color": "#c8393b",
-    "lighter_color": "#f04447 ",
-    "darker_color": "#a02e2f",
+    "bank_name": "sepah",
+    "bank_title": "بانک سپه (انصار سابق)",
+    "old_bank_name": "انصار",
+    "bank_logo": "./images/sepah.svg",
+    "color": "#0093dd",
+    "lighter_color": "#33a7f7",
+    "darker_color": "#0077b3",
     "iban": "015",
     "card_regex": "^627381\\d{10}$",
     "iban_regex": "^IR\\d{2}015\\d{19}$"
@@ -15,6 +16,7 @@
     "card_no": 636214,
     "bank_name": "melli",
     "bank_title": "بانک ملی (آینده سابق)",
+    "old_bank_name": "آینده",
     "bank_logo": "./images/melli.svg",
     "color": "#fff689",
     "lighter_color": "#fff7b1",
