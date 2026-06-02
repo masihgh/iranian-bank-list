@@ -504,5 +504,29 @@
     "iban": "055",
     "card_regex": "^504706\\d{10}$",
     "iban_regex": "^IR\\d{2}055\\d{19}$"
-}
+  },
+  {
+    "card_no": 581874,
+    "bank_name": "iran-venezuela",
+    "bank_title": "بانک ایران ونزوئلا",
+    "bank_logo": "./images/iran-venezuela.svg",
+    "color": "#3437A1",
+    "lighter_color": "#5C5FCE",
+    "darker_color": "#24276F",
+    "iban": "050",
+    "card_regex": "^581874\\d{10}$",
+    "iban_regex": "^IR\\d{2}050\\d{19}$"
+  },
+  {
+    "card_no": 507677,
+    "bank_name": "noor",
+    "bank_title": "بانک نور",
+    "bank_logo": "./images/noor.svg",
+    "color": "#11B8C7",
+    "lighter_color": "#46D7E2",
+    "darker_color": "#0B7F88",
+    "iban": "080",
+    "card_regex": "^507677\\d{10}$",
+    "iban_regex": "^IR\\d{2}080\\d{19}$"
+  }
 ]
